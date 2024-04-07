@@ -1,0 +1,19 @@
+{
+  "name": "figstack",
+  "version": "1.0.0",
+  "description": "The Figstack monorepo",
+  "scripts": {
+    "dev": "npm run dev --workspace=client & npm run dev --workspace=server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintlify/figstack.git"
+  },
+  "author": "Mintlify",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintlify/figstack/issues"
+  },
+  "homepage": "https://github.com/mintlify/figstack#readme"
+ 
+}
